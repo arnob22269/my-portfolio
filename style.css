@@ -108,7 +108,7 @@ p{
 #box-one{
 
     border-left: 7px solid;
-    border-image: linear-gradient(rgba(245, 241, 45, 0.534),rgb(244, 248, 2) );
+    border-image: linear-gradient(rgba(187, 121, 224, 0.534),rgb(136, 5, 197) );
     border-image-slice: 1;
     background-color: white;
 }
