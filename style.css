@@ -88,3 +88,46 @@ p{
     font-weight:bolder;
     color: rgb(223, 146, 47);
 }
+.lastimg{
+
+    background-image: url("images/dream-bg.png");
+    background-position: right;
+    
+}
+.BOX{
+
+    float: left;  
+    margin:5%;
+    padding:1%;
+    width: 37%;
+    height: 30;
+    box-shadow:10px 10px 50px 20px rgb(214, 210, 210);
+    
+}
+
+#box-one{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(rgba(62, 231, 208, 0.534),rgb(18, 235, 144) );
+    border-image-slice: 1;
+    background-color: white;
+}
+
+#box-two{
+
+    border-left: 8px solid;
+    border-image: linear-gradient(rgba(15, 139, 221, 0.534),rgb(9, 23, 214) );
+    border-image-slice: 1;
+}
+.lasbackground{
+
+    background-image: url("images/exp-bg.png");
+    background-position: left;
+
+}
+.footer{
+
+    text-align: center;
+    font-weight: bolder;
+
+}
